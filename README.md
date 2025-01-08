@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**ShaikhinSPace/ShaikhinSPace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+Hello! I'm [Your Name], a passionate and driven developer with a keen interest in crafting robust and efficient software solutions. 
 
-Here are some ideas to get you started:
+- **Education**: Starting my Computer Science journey at Louisiana Tech University (Spring 2025)  
+- **Expertise**: Flutter Developer with a solid foundation in modern development frameworks and backend technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+I specialize in building dynamic, high-performing applications with the following technologies:
+
+### Mobile Development
+- **Flutter**  
+- **Kotlin**  
+- **Jetpack Compose**  
+
+### Backend Development
+- **Django**  
+- **FastAPI**  
+
+### Database Management
+- **PostgreSQL**  
+- **MongoDB**  
+
+## 🌱 Currently Exploring
+- Advanced Flutter animations and state management.  
+- Cloud integrations for mobile apps.  
+- Backend optimizations with scalable architectures.  
+
+---
+
+⭐️ *Feel free to explore my repositories and connect with me. Let's build something amazing together!*  
